@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/freebasic.ides/ides-s1/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ides-s1.dir/ides-s1.cpp.o -c /home/denis/freebasic.ides/ides-s1/ides-s1.cpp",
+  "file": "/home/denis/freebasic.ides/ides-s1/ides-s1.cpp"
+}
+]
